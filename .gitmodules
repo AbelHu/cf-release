@@ -30,7 +30,8 @@
 	url = https://github.com/cloudfoundry/buildpack-releases
 [submodule "src/capi-release"]
 	path = src/capi-release
-	url = https://github.com/cloudfoundry/capi-release
+	url = https://github.com/AbelHu/capi-release
+        branch = abelhu
 [submodule "src/nats-release"]
 	path = src/nats-release
 	url = https://github.com/cloudfoundry/nats-release
