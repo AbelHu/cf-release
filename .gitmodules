@@ -24,7 +24,8 @@
 	url = https://github.com/cloudfoundry/dea-hm-workspace
 [submodule "src/capi-release"]
 	path = src/capi-release
-	url = https://github.com/cloudfoundry/capi-release
+	url = https://github.com/AbelHu/capi-release
+	branch = v244
 [submodule "src/nats-release"]
 	path = src/nats-release
 	url = https://github.com/cloudfoundry/nats-release
